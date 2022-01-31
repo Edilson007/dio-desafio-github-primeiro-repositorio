@@ -1,0 +1,28 @@
+
+[x] A lógica de programação é a maneira como se escreve um algoritmo, que nada mais é do que uma sequência de passos necessários, para que uma função seja executada.
+[X] linguagem é a maneira de se escrever o algoritmo e compreender a lógica de programação é saber o que dizer para o computador executar o desejado, usando o melhor 
+jeito de escrever e se comunicar com a máquina. 
+
+# 5 Dicas Para Estudar:
+
+- Não espere dos outros
+Quando nascemos, nós aprendemos a andar sozinhos. 
+Ao começar a frequentar a escola, somos ensinados a ouvir os conhecimentos do professor sentado na carteira, sem precisar fazer muito esforço.
+
+- Os erros são essenciais na jornada
+Os erros são questões naturais em qualquer jornada de evolução de um programador. São oportunidades de entender o que não se deve fazer e afunilar 
+a gama de possibilidades, para ter mais chances de acertar nas próximas vezes.
+
+- Estude o tempo todo
+A programação nunca vai parar de evoluir e sempre haverá atualizações para buscar. Mesmo que o profissional domine apenas uma linguagem de programação, 
+ele sempre terá algo novo para aprender. Tenha livros a sua disposição o tempo todo, participe de fóruns de tecnologia e aprenda com pessoas mais experientes.
+
+- Seja persistente e não desista no caminho
+Nenhuma jornada profissional é um mar de rosas. Sempre haverá momentos bons, assim como os mais difíceis.
+
+Existem pessoas com uma mentalidade fixa, ou seja, acham que não nasceram para fazer algo e desistem logo no início de um caminho, ao aparecer o primeiro 
+obstáculo. Por outro lado, existem aquelas que sempre procuram crescer, mesmo nos momentos de frustração.
+
+- Curta todo o processo
+Nesses altos e baixos da empreitada, você deve sentir prazer pelo que está fazendo e evoluindo. Comemore quando acertar uma codificação, sinta orgulho de si. 
+Essas ações geram sentimentos que fazem com que queira aprender e se aventurar ainda mais no mundo da programação, enfrentando novos desafios e obstáculos.
