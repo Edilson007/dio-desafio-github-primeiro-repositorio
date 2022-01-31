@@ -1,6 +1,6 @@
 
-[x] A lógica de programação é a maneira como se escreve um algoritmo, que nada mais é do que uma sequência de passos necessários, para que uma função seja executada.
-[X] linguagem é a maneira de se escrever o algoritmo e compreender a lógica de programação é saber o que dizer para o computador executar o desejado, usando o melhor 
+# A lógica de programação é a maneira como se escreve um algoritmo, que nada mais é do que uma sequência de passos necessários, para que uma função seja executada.
+# linguagem é a maneira de se escrever o algoritmo e compreender a lógica de programação é saber o que dizer para o computador executar o desejado, usando o melhor 
 jeito de escrever e se comunicar com a máquina. 
 
 # 5 Dicas Para Estudar:
