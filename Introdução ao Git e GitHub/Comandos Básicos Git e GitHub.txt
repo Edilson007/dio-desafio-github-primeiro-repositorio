@@ -1,0 +1,20 @@
+# Comandos Uteis
+
+- git status
+
+Mostra o estado dos arquivos
+
+
+- git add .
+
+Adiciona todos os arquivos para controle de versão local
+
+
+- git commit -m "Mensagem" 
+
+Adiciona um comentario e o commit.
+
+
+- git push origin main
+
+envia todos os commits que estão localmente para nuvem.
