@@ -1,0 +1,19 @@
+Tipos de estrutura de dados
+ 
+Uma estrutura de dados possui vários tipos. Conheça alguns dos principais e mais utilizados pela programação:
+
+Array (vetores): estruturas lineares e estática. São compostas por um número finito. O seu uso é recomendado para 
+quando há dados armazenados que não apresentarão mudança significativa com o tempo.
+
+Lista: linear e dinâmica, possui nós que direcionam para o elemento a seguir (exceto o último).
+
+Àrvore: nessa estrutura, cada elemento possui pelo menos um outro associado a si.
+
+Fila: baseia-se no princípio FIFO. Ele remete às expressões em inglês “first in, first out”. Nessa estrutura os elementos 
+que são inseridos no início serão os primeiros removidos.
+
+Pilha: essa estrutura baseia-se no princípio LIFO, que representa as expressões “last in, first out”. 
+Nesse caso, os elementos inseridos por último serão removidos primeiramente.
+
+Há ainda outros tipos de estruturas de dados, como Registro, Grafo, Heap e Tabela Hash. Entretanto, 
+os seus usos são mais técnicos e difíceis de serem compreendidos por leigos.
