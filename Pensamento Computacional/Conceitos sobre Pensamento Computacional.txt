@@ -1,0 +1,13 @@
+
+Como podemos explicar o que é o pensamento computacional?
+
+Em linhas gerais, podemos afirmar que o pensamento computacional aplica as regras de soluções de problemas 
+utilizados na área de Ciência da Computação para resolver outros problemas da vida diária, individual ou coletivamente.
+
+Quais são os pilares que o orientam?
+
+O pensamento computacional se apoia em quatro pilares: 
+abstração (o sujeito lê o problema e identifica o que é importante e o que pode ser deixado de lado), 
+decomposição (o aluno divide o problema em partes menores), reconhecimento de padrões 
+(o aluno reconhece os padrões que já utilizou em problemas parecidos) e 
+algoritmos (estabelecimento de um conjunto de passos para solucionar o problema).
